@@ -44,4 +44,4 @@
 ### 其他
 ---
 * 参加过全国大学生电子设计大赛（未获奖）
-* 微软校园精英（Microsoft Student Partner）
+* 2016-2018届微软校园精英（Microsoft Student Partner）
