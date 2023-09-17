@@ -1,6 +1,6 @@
 ### 主要信息
 ---
-姓名：李桑郁<br>邮箱：sangyu.li@outlook.com<br>年龄：26<br>政治面貌：中共预备党员<br>工作单位：武汉铁路局襄阳车辆段<br>技术栈：C#、嵌入式（STM32、Arduino）、Photoshop、AE、Pr、C4D、Solidworks、CAD<br>GitHub： [https://github.com/sannnyu](https://github.com/sannnyu)<br>
+姓名：李桑郁<br>邮箱：sangyu.li@outlook.com<br>年龄：26<br>政治面貌：中共党员<br>工作单位：武汉铁路局襄阳车辆段<br>技术栈：C#、嵌入式（STM32、Arduino）、Photoshop、AE、Pr、C4D、Solidworks、CAD<br>GitHub： [https://github.com/sannnyu](https://github.com/sannnyu)<br>
 
 ### 学历
 ---
