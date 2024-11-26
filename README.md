@@ -1,6 +1,6 @@
 ### 主要信息
 ---
-姓名：李桑郁<br>邮箱：sangyu.li@outlook.com<br>年龄：26<br>政治面貌：中共党员<br>工作单位：武汉铁路局襄阳车辆段<br>技术栈：C#、嵌入式（STM32、Arduino）、Photoshop、AE、Pr、C4D、Solidworks、CAD<br>GitHub： [https://github.com/sannnyu](https://github.com/sannnyu)<br>
+姓名：李桑郁<br>邮箱：sangyu.li@outlook.com<br>年龄：28<br>政治面貌：中共党员<br>工作单位：武汉铁路局襄阳车辆段<br>技术栈：C#、嵌入式（STM32、Arduino）、Photoshop、AE、Pr、C4D、Solidworks、CAD<br>GitHub： [https://github.com/sannnyu](https://github.com/sannnyu)<br>
 
 ### 学历
 ---
@@ -21,7 +21,7 @@
  
  车间HMIS、计算机设备管理；外制动钳工；视频制作、宣传设计。
  
- * 武汉铁路局襄阳车辆段    检修车间制动钳工    2023.01-至今
+ * 武汉铁路局襄阳车辆段    设备车间计算机维修工    2023.01-至今
  
  段HMIS、计算机维修、网络维护、桌面运维、机房运维。
  
